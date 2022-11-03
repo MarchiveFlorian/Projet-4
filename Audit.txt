@@ -1,0 +1,11 @@
+Points de design à modifier: 
+
+- Balise meta keyword n'est plus utilisée par les moteurs de recherche, obsolete
+- Pas de titre sur la page principale "." 
+- Renommez la page "contact"
+- Uniquement des balises div -> mettre des balises sémantique adéquate
+
+
+Outils à utiliser/rajouter:
+
+- mettre le site en ligne sur Github et le lier à Google analytics en mettant le lien dans la balise <head> de chaque page
