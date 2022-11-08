@@ -2,8 +2,9 @@ Points de design à modifier:
 
 - Balise meta keyword n'est plus utilisée par les moteurs de recherche, obsolete
 - Pas de titre sur la page principale "." 
-- Renommez la page "contact"
-- Uniquement des balises div -> mettre des balises sémantique adéquate
+- Renommez la page2 en "contact"
+- Uniquement des balises div -> mettre des balises sémantiques adéquates
+- Le site n'est pas lisible sur mobile
 
 
 Outils à utiliser/rajouter:
