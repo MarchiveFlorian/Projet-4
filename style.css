@@ -382,6 +382,7 @@ a:hover {
 }
 
 @media (min-width: 768px) {
+
     .bloc-1-hero{
         padding-top: 50px;
     }
@@ -930,6 +931,13 @@ h4 {
 }
 
 @media (max-width: 767px) {
+
+    .portfolio-thumb{
+        margin: auto;
+    }
+    .responsive-h1-contact{
+        padding-top: 100px;
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
