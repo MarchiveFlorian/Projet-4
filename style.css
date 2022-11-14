@@ -11,6 +11,10 @@ description{
     display: none;
 }
 
+.fontsize-page2{
+    font-size: 1.4rem;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -101,7 +105,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    /*background: url("img/texture-paper.png");*/
     background-size: 280px 280px;
 }
 
@@ -863,7 +867,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
