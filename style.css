@@ -15,6 +15,11 @@ description{
     font-size: 1.4rem;
 }
 
+ .tc-truewhite{
+    text-shadow: 0 0 10px black;
+    color: #fff!important;
+ }
+
 a,
 button {
     transition: all .3s ease-in-out;
